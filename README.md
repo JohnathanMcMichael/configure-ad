@@ -86,8 +86,16 @@ Use jane_admin as your admin account from now on.
 </p>
 <br />
 
+
+
+
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NaCMrUA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/vuxyJyL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address. 
