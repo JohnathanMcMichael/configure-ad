@@ -74,7 +74,7 @@ Restart and then log back into DC-1 as user: mydomain.com\labuser.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3Y18IMy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES”. 
