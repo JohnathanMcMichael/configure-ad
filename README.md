@@ -86,11 +86,6 @@ Use jane_admin as your admin account from now on.
 </p>
 <br />
 
-
-
-
-
-
 <p>
 <img src="https://i.imgur.com/NaCMrUA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -106,7 +101,7 @@ Login to the Domain Controller and verify Client-1 shows up in Active Directory 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gieLB4U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log into Client-1 as mydomain.com\jane_admin and open system properties. 
@@ -117,12 +112,15 @@ You can now log into Client-1 as a normal, non-administrative user now.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xfak2F0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/C7dZ0Gd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Login to DC-1 as jane_admin. 
 Open PowerShell_ise as an administrator. 
-Create a new File and paste the contents of the script into it (https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1). 
+Create a new File and paste the contents of this script into it (https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1). 
 Run the script and observe the accounts being created. 
 When finished, open ADUC and observe the accounts in the appropriate OU. 
 Attempt to log into Client-1 with one of the accounts (take note of the password in the script). 
