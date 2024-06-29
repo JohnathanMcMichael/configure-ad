@@ -61,7 +61,10 @@ Check back at Client-1 to see the ping succeed.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c823e2i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/bKYpkVh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Login to DC-1 and install Active Directory Domain Services. 
