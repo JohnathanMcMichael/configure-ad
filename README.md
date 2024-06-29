@@ -32,7 +32,13 @@ This tutorial outlines how I implemented on-premises Active Directory within Azu
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/JohnathanMcMichael/configure-ad/assets/76992266/562b3b65-5a3f-487e-be58-208ec85a656b)
+</p>
+<p>
+![image](https://github.com/JohnathanMcMichael/configure-ad/assets/76992266/5ef52ae0-c250-45f5-94d1-89f1d49e822e)
+</p>
+<p>
+![image](https://github.com/JohnathanMcMichael/configure-ad/assets/76992266/a8166c5e-96fa-4838-b5d5-088abc439aa2)
 </p>
 <p>
 Create the Domain Controller VM (Windows Server 2022) named “DC-1”. 
